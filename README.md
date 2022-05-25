@@ -43,5 +43,8 @@ Após a confirmação das informações a automação será iniciada e passará 
 
 Fim da automação.
 
+# Saída
+O áudio gerado pela automação: https://drive.google.com/file/d/1a3H4oS9ZGHETCFnc8KjMvAe6UtLckey5/view?usp=sharing
+
 # Autor
 Otávio Moraes Braga
