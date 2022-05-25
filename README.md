@@ -18,7 +18,7 @@ Após a confirmação das informações a automação será iniciada e passará 
 5. O mouse de forma automática irá selecionar a temperatura em graus C° e pedirá executará a leitura do texto selecionado em voz alta.
 6. De forma rápida o mouse voltará para a guia do Whatsapp e abrirá o áudio e esperará a leitura em voz alta da temperatura encerre. 
 
-![a](https://user-images.githubusercontent.com/84475339/170359453-ccc3202b-c71d-4ee8-a4b0-6ad4da1c67c5.png) ![a](https://user-images.githubusercontent.com/84475339/170359591-b47bfd3e-0d8e-4a5f-a87f-a1f07e8390c7.png)
+![a](https://user-images.githubusercontent.com/84475339/170359453-ccc3202b-c71d-4ee8-a4b0-6ad4da1c67c5.png)            ![a](https://user-images.githubusercontent.com/84475339/170359591-b47bfd3e-0d8e-4a5f-a87f-a1f07e8390c7.png)
 
 
 
