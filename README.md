@@ -13,12 +13,21 @@ Após a confirmação das informações a automação será iniciada e passará 
 
 1. Abertura do Navegador, neste caso, será usado o Microsoft Edge
 2. Abertura do Site: https://web.whatsapp.com/
-3. Com o Whatsapp Web aberto, é pesquisado pelo número de contato informado no segundo input, neste caso, o próprio número do usuário e a conversa quando localizada é aberta logo em seguida
-4. É feita a pesquisa no Google em busca de informações sobre a previsão do tempo da localidade informada no primeiro input.
+3. Com o Whatsapp Web aberto, é pesquisado pelo número de contato informado no segundo input, neste caso, o próprio número do usuário e a conversa quando localizada é aberta logo em seguida 
+
+![a](https://user-images.githubusercontent.com/84475339/170360919-391c1b40-94f3-4bc1-b8d6-3745b55a4755.png)
+
+4. É feita a pesquisa no Google em busca de informações sobre a previsão do tempo da localidade informada no primeiro input. 
+
+![a](https://user-images.githubusercontent.com/84475339/170360393-e9e09e08-777c-4897-a82c-de713bab2f7e.png)
+
 5. O mouse de forma automática irá selecionar a temperatura em graus C° e pedirá executará a leitura do texto selecionado em voz alta.
+
+![a](https://user-images.githubusercontent.com/84475339/170360185-a590142f-2a97-49ed-9d29-350328ec6eea.png)
+
 6. De forma rápida o mouse voltará para a guia do Whatsapp e abrirá o áudio e esperará a leitura em voz alta da temperatura encerre. 
 
-![a](https://user-images.githubusercontent.com/84475339/170359762-9a769d66-2734-41a9-abcd-a3a5e68369d6.png) ![a](https://user-images.githubusercontent.com/84475339/170359591-b47bfd3e-0d8e-4a5f-a87f-a1f07e8390c7.png)
+![a](https://user-images.githubusercontent.com/84475339/170359591-b47bfd3e-0d8e-4a5f-a87f-a1f07e8390c7.png)
 
 
 
