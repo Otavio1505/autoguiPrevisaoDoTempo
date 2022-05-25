@@ -7,7 +7,7 @@ A ideia deste projeto surgiu de um desafio pessoal, após aprendizados da biblio
 # Como funciona?
 Primeiramente é preciso da importação da biblioteca PyAutoGUI, responsável por toda a automação do programa. Antes da automação ser iniciada, é aberto 2 inputs para o usuário na qual ele precisará informar o nome da localidade que ele deseja saber a previsão do tempo e o número de contato em que serão enviado as mensagens, para esta automação é recomendado o uso do próprio número de Whatsapp do usuário para que seja enviado as mensagens para ele mesmo.
 
-![a](https://user-images.githubusercontent.com/84475339/170361236-87806479-14d5-44c8-b106-314fafd9a19f.png)
+![a](https://user-images.githubusercontent.com/84475339/170361423-15221d9a-43ef-467a-94cd-29020d3c7a21.png)
 
 Após a confirmação das informações a automação será iniciada e passará pelos seguintes passos.
 
