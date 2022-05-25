@@ -21,7 +21,7 @@ Após a confirmação das informações a automação será iniciada e passará 
 
 ![a](https://user-images.githubusercontent.com/84475339/170360393-e9e09e08-777c-4897-a82c-de713bab2f7e.png)
 
-5. O mouse de forma automática irá selecionar a temperatura em graus C° e pedirá executará a leitura do texto selecionado em voz alta.
+5. O mouse de forma automática irá selecionar a temperatura em graus C° e executará a leitura do texto selecionado em voz alta.
 
 ![a](https://user-images.githubusercontent.com/84475339/170360185-a590142f-2a97-49ed-9d29-350328ec6eea.png)
 
